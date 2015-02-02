@@ -1,0 +1,10 @@
+double [] lat = {31.102396, 32.207564, 30.736006, 28.569198, 28.574610, 23.267139, 17.361418, 12.928360, 28.645168, 28.575213}
+
+double [] long = {77.159745, 76.323154, 76.778740, 77.242068, 77.327179, 77.413695, 78.474613, 77.711273, 77.213879, 77.224625}
+
+String [] images = {"http://static.dnaindia.com/sites/default/files/2014/10/02/271945-modi-broom-new.jpg", "http://static.dnaindia.com/sites/default/files/2014/10/02/271945-modi-broom-new.jpg", "http://static.dnaindia.com/sites/default/files/2014/10/02/271945-modi-broom-new.jpg", "http://static.dnaindia.com/sites/default/files/2014/10/02/271945-modi-broom-new.jpg", "http://static.dnaindia.com/sites/default/files/2014/10/02/271945-modi-broom-new.jpg", "http://static.dnaindia.com/sites/default/files/2014/10/02/271945-modi-broom-new.jpg", "http://static.dnaindia.com/sites/default/files/2014/10/02/271945-modi-broom-new.jpg", "http://static.dnaindia.com/sites/default/files/2014/10/02/271945-modi-broom-new.jpg", "http://static.dnaindia.com/sites/default/files/2014/10/02/271945-modi-broom-new.jpg", "http://static.dnaindia.com/sites/default/files/2014/10/02/271945-modi-broom-new.jpg"}
+
+
+String [] description = {"A place near Shimla Bus Stand smells very foul. Garbage is all around the place.", "This place is full of litter. Request to all locality members to clean the place.", "The front side of the ISBT is clean. But has someone went to the backside? #CleanISBT.", "Garbage all around the place. Delhi walo clean Delhi, clean India.", "Shopkeepers try to clean places around you, only then we will be able to make difference. Market in Garbage or Garbage in market.", "Why Railways are so poor at sanitation and waste managment? Worst condition of Indian Railways.", "A great monument is poor situation. All the places around Charminar are so dirty, I can't even imagine.", "When I used to live in India around 10 years back, this place was awesome. Now its full of garbage.", "People can't even clean their colony. So bad. Litter reported at Arya Nagar Delhi.", "Garbage reported. Become sensible guys. Dont throw your waste everywhere. #CleanIndia"}
+
+int [] status = {0, 0, 1, 0, 0, 1, 0, 0 ,0, 1}
